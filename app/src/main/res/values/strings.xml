@@ -2,21 +2,13 @@
     <string name="app_name">Practise Project</string>
     <string-array name="Worker">
         <item>Ιωαννης Ελεθεριαδης</item>
-        <item>Αναστασια Πανταζη</item>
-        <item>Ελενη Ταξιαρχη</item>
-        <item>Ελενη Καραμανλή</item>
-        <item>Αναστασιος Καρασαριδης</item>
-        <item>Κωνσταντινος Σηκοβαρης</item>
-        <item>Χρηστος Καλαιτζιδης</item>
-        <item>Δωρα Αρχοντη</item>
-        <item>Νικη Ελευθεριου</item>
-        <item>Νταιανα Τσελα</item>
-        <item>Ειρηναιος Πεχλιβανιδης</item>
-        <item>Τζηνα Κουκα</item>
-        <item>Νικολετα Παπαδοπουλου</item>
-        <item>Αλεξια Κακαραντζα</item>
-        <item>Αννα Γιαουπι</item>
-        <item></item>
+        <item>Εργαζομενος 1</item>
+        <item>Εργαζομενος 2</item>
+        <item>Εργαζομενος 3</item>
+        <item>Εργαζομενος 4</item>
+        <item>Εργαζομενος 5</item>
+        <item>Εργαζομενος 6</item>
+        
     </string-array>
     <string-array name="Worklist">
         <item>Picking</item>
